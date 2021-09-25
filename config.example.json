@@ -1,6 +1,6 @@
 [
   {
-    "cookie": "你的 cookie"
+    "cookie": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImp0aSI6ImJlNTJiNDlhLTgyNzQtNDk0MC1hNzQwLTA5ZWIwZWRmYjIzNCIsImlhdCI6MTYzMjUzNzkxOSwidHlwZSI6ImFjY2VzcyIsInVzZXJfY2xhaW1zIjp7InNhbHQiOjkxLCJudW1iZXIiOjUyODgzMjE5MSwidGltZXN0YW1wIjoxNjMyNTM3OTE5fSwiaWRlbnRpdHkiOiI2MTE5ZDAxYzY3MDllNWZhZjdkMzA1NzAiLCJuYmYiOjE2MzI1Mzc5MTl9.sMU8AAlfBNyOIuZkRD8Rkr-Z3Vf23CwAvG0QtsitLP4"
   },
   {
     "cookie": "你的 cookie"
