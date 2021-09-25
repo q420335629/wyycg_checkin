@@ -79,8 +79,8 @@ def do_sign(i, cookie):
 
 
 def main():
-    if os.path.exists('/config.example.json'):
-        config = open('/config.example.json').read()
+    if os.path.exists('config.example.json'):
+        config = open('config.example.json').read()
     else:
         config = os.environ["CONFIG"]
     config = json.loads(config)
