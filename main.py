@@ -80,10 +80,8 @@ def do_sign(i, cookie):
 
 def main():
     if os.path.exists('config.example.json'):
-        print("成功")
         config = open('config.example.json').read()
     else:
-        print("失败")
         config = os.environ["CONFIG"]
     config = json.loads(config)
 
